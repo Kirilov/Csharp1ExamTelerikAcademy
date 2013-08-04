@@ -33,8 +33,7 @@ class Program
             dotCount--;
             lineCount+=2;
             dotcount2 += 2;            
-        }
-        
+        }        
     }
 }
 
